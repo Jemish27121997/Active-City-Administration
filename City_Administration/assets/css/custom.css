@@ -1,0 +1,237 @@
+
+
+
+@import "compass/css3";
+.mobile_hide {
+    display: block;
+}
+
+.banner_blocks {
+    display: block;
+    float: left;
+    width: 420px;
+    height: 275px;
+    overflow: hidden;
+    color: #fff;
+    font-family: 'Numans',sans-serif;
+    text-align: center;
+    position: relative;
+    font-size: 12px;
+}
+
+
+.font_30px {
+    font-size: 30px;
+}
+
+
+.villages_block {
+    display: block;
+    float: left;
+    width: 140px;
+    height: 135px;
+    margin: 0 5px 5px 0;
+    background: url(/assets/images/white_arrow_right.png) 90% 90% no-repeat #c22a3f;
+    cursor: pointer;
+}
+.box_content {
+    display: block;
+    margin: auto;
+    width: 100px;
+    height: 100px;
+    margin-top: 50px;
+    z-index: 99;
+}
+
+.uppercase {
+    text-transform: uppercase;
+}
+
+.map_block {
+    background: url(/assets/images/map_block_bg.gif) top left no-repeat #cd4259;
+    display: block;
+    float: left;
+    width: 275px;
+    height: 135px;
+    margin: 0 0 5px 0;
+    position: relative;
+}
+
+
+.gujarat_map_block {
+    display: block;
+    float: right;
+    width: 160px;
+    height: 134px;
+    background: url(/assets/img/gujarat_map.png) center center no-repeat scroll;
+}
+
+.map_text_block {
+    display: block;
+    float: left;
+    text-align: left;
+    margin-top: 50px;
+    width: 110px;
+    margin-left: 5px;
+}
+
+.taluka_block {
+    background-color: #c22a3f;
+    display: block;
+    float: left;
+    width: 140px;
+    height: 135px;
+    margin-right: 5px;
+    background: url(/assets/images/white_arrow_right.png) 90% 90% no-repeat #c22a3f;
+    cursor: pointer;
+}
+
+.population_block {
+    background-color: #c22a3f;
+    display: block;
+    float: left;
+    width: 135px;
+    height: 135px;
+    margin-right: 5px;
+    background: url(/assets/images/white_arrow_right.png) 90% 90% no-repeat #c22a3f;
+    cursor: pointer;
+}
+
+.literacy_block {
+    background-color: #c22a3f;
+    display: block;
+    float: left;
+    width: 135px;
+    height: 135px;
+    background: url(/assets/images/white_arrow_right.png) 90% 90% no-repeat #c22a3f;
+    cursor: pointer;
+}
+
+.elips
+{
+display:block;
+display: -webkit-box;
+-webkit-line-clamp: 2;
+-webkit-box-orient:vertical;
+overflow:hidden;
+text-overflow:ellipsis;
+}
+
+
+#contus:hover{
+				text-decoration: underline;
+				font-size:17px;
+}
+
+
+
+
+
+
+
+
+
+
+
+ul.objective_list {
+    list-style: none;
+    margin-left: 0;
+}
+
+ul.objective_list li {
+    margin-left: 15px;
+    margin-top: 50px!important;
+}
+
+ul.objective_list li.obj_icon1 {
+    list-style: none;
+    background-image: url(/assets/img/time_delivery.png);
+    background-position: 0 50%;
+    background-repeat: no-repeat;
+    display: block;
+    padding-left: 90px;
+    height: 81px;
+    width: 190px;
+    float: left;
+    margin-top: 5px;
+}
+
+ul.objective_list li.obj_icon2 {
+    list-style: none;
+    background-image: url(/assets/img/coordination_icon.png);
+    background-position: 0 50%;
+    background-repeat: no-repeat;
+    display: block;
+    padding-left: 90px;
+    height: 81px;
+    width: 190px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 15px;
+}
+
+ul.objective_list li.obj_icon3 {
+    list-style: none;
+    background-image: url(/assets/img/latest_technology.png);
+    background-position: 0 50%;
+    background-repeat: no-repeat;
+    display: block;
+    padding-left: 90px;
+    height: 81px;
+    width: 160px;
+    float: left;
+    margin-top: 5px;
+}
+
+ul.objective_list li.obj_icon4 {
+    list-style: none;
+    background-image: url(/assets/img/nurture_icon.png);
+    background-position: 0 50%;
+    background-repeat: no-repeat;
+    display: block;
+    padding-left: 90px;
+    height: 81px;
+    width: 170px;
+    float: left;
+    margin-top: 5px;
+    margin-left: 45px;
+}
+
+
+.key_f ul li
+{
+	padding-bottom:15px;
+}
+
+
+
+
+
+
+
+
+#uiorg
+{
+  list-style:none;
+
+}
+
+.div111 {
+    background-color: yellow;
+    padding: 10px;
+    width:350px;
+margin-top: 10px;
+margin-left: 30px;
+display: none;
+}
+    
+span:hover + #div111 {
+    display: block;
+    
+}
+
+.hrorg{
+	margin-top:-10px;
+	margin-bottom:0px;
+}
+
